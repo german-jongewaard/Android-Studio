@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:text="1"
+            android:id="@+id/button7"
+            android:layout_column="2"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="20dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2"
+            android:id="@+id/button8"
+            android:layout_column="6"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3"
+            android:id="@+id/button9"
+            android:layout_column="7"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="6"
+            android:id="@+id/button12"
+            android:layout_column="2"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="20dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5"
+            android:id="@+id/button11"
+            android:layout_column="6"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp" />
+
+        <Button
+            android:text="4"
+            android:id="@+id/button10"
+            android:layout_column="2"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:text="7"
+            android:id="@+id/button13"
+            android:layout_column="2"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="20dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8"
+            android:id="@+id/button14"
+            android:layout_column="6"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9"
+            android:id="@+id/button15"
+            android:layout_column="7"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp" />
+    </TableRow>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="64dp"
+        android:gravity="center"
+        android:weightSum="1">
+
+    </LinearLayout>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:text="Volver"
+            android:id="@+id/button19"
+            android:layout_column="2"
+            android:onClick="volver"
+            android:layout_weight="0.28"
+            android:layout_span="5" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="table_layout"
+            android:id="@+id/textView6"
+            android:layout_column="6"
+            android:layout_gravity="center_horizontal" />
+    </TableRow>
+
+
+</TableLayout>
