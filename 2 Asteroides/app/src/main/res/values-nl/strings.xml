@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Arrancar">Play</string>
+    <string name="Configurar">Configureren</string>
+    <string name="Acercade">Over</string>
+    <string name="Salir">Exit</string>
+    <string name="tituloAplicacion">Asteroïden</string>
+    <string name="app_name">Asteroïden</string>
+    <string name="action_settings">Configuratie</string>
+
+</resources>
