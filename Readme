@@ -2,9 +2,17 @@ Prácticas de: "El gran libro de Android" 5ª Edición - Autor: Jesús Tomás
 
 5ª edición - versión 6.0 Marshmallow - Android Studio.
 
-La finalidad de estos ejercicios es poder contribuir a la comunidad de desarrolladores Android los resultados que fui obteniendo durante mi práctica con el libro de "El gran libro de Android".
-A medida que fui estudiando el libro y resolviendo los ejercicios me encontré con algunos detalles del libro que me hicieron buscar en la web los ejercicios resueltos (de algunos desarrolladores que amablemente subieron) para poder comparar lo que estaba desarrollando.
-Al no encontrar un solo portal donde tengan todos los ejercicios resueltos para comparar con los míos, se me ocurrió ir subiendo los temas para aquellos que quieran chequear el código en .java o en .xml y así de esa manera sacarse las dudas que en mi caso surgieron.
+La finalidad de estos ejercicios es poder contribuir a la comunidad de desarrolladores Android los resultados que fui 
+obteniendo durante mi práctica con el libro de "El gran libro de Android".
+
+A medida que fui estudiando el libro y resolviendo los ejercicios me encontré con algunos detalles del libro que me 
+hicieron buscar en la web los ejercicios resueltos (de algunos desarrolladores que amablemente subieron) para poder 
+comparar lo que estaba desarrollando.
+
+Al no encontrar un solo portal donde tengan todos los ejercicios resueltos para comparar con los míos, se me ocurrió 
+ir subiendo los temas para aquellos que quieran chequear el código en .java o en .xml y así de esa manera sacarse las
+dudas que en mi caso surgieron.
+
 Un cordial saludo a todos/as los desarrolladores y espero les sirva.
 
 Germán Jongewaard
